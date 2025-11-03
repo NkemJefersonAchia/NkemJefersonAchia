@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NkemJefersonAchia
 - 👀 I’m interested in programming microcontrollers, the green space, healthcare, and playing video games.
-- 🌱 I’m currently learning Linux and Python
-- 💞️ I’m looking to collaborate on hardware projects
-- 📫 How to reach me  "nkemachia05@gmail.com"
+- 🌱 I’m currently API dev and backend 
+- 💞️ I’m looking to collaborate on hardware web projects
+- 📫 How to reach me: nkemachia05@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love spicy food
 
