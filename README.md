@@ -23,9 +23,9 @@ I'm a Full-Stack Developer based in Cameroon with a passion for hardware-web int
 
 ## Currently Learning
 - API Development & Backend Architecture
-- Python Flask/Django
+- Advanced Python
 - IoT & Hardware-Web Integration
-- Advanced C Programming
+- Enterprise Web Development 
 
 ## Open to Collaborate On
 - Hardware-Web Integration Projects
